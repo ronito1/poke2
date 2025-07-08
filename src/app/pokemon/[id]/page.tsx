@@ -21,8 +21,6 @@ export async function generateStaticParams() {
   });
 }
 
-type Props = { params: { id: string } };
-
 export default async function PokemonDetail({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
   const res = await fetch(`https://pokeapi.co/api/v2/pokemon/${id}`, { cache: "force-cache" });
