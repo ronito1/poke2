@@ -1,9 +1,5 @@
 # Poké Explorer
 
-![![![image](https://github.com/user-attachments/assets/28991fa5-9a00-4204-b560-842026725a6d)
-](https://github.com/user-attachments/assets/1458b1d0-0c3b-4ede-92d5-00f8d7235862)
-!]
-
 A beautifully designed and responsive web application for exploring the world of Pokémon. This app leverages the PokeAPI to provide real-time search, detailed Pokémon information, and a seamless user experience.
 
 ---
