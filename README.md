@@ -1,6 +1,6 @@
 # PokéDex App
 
-![![Uploading image.png…]
+![Uploading image.png…]()
 
 A beautifully designed and responsive web application for exploring the world of Pokémon. This app leverages the PokeAPI to provide real-time search, detailed Pokémon information, and a seamless user experience.
 
